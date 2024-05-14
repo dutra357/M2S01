@@ -7,7 +7,7 @@
     width: 300px;    
     font-family: tahoma;
     font-size: 13px;
-    border: 1px solid #ac2727;
+    border: 2px solid #ac2727;
 }
 
 .textarea2 {
@@ -19,5 +19,9 @@
     width: 150px;    
     font-family: tahoma;
     font-size: 13px;
-    border: 1px solid #ac2727;
+    border: 2px solid #ac2727;
+}
+
+a {
+    text-decoration: none;
 }
