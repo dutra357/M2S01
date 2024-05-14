@@ -1,0 +1,23 @@
+.textarea {
+    box-shadow: inset 3px 3px 3px 0px #dddddd;
+    height: 80px;
+    margin: 10px;
+    overflow: auto;
+    padding: 7px 10px;
+    width: 300px;    
+    font-family: tahoma;
+    font-size: 13px;
+    border: 1px solid #ac2727;
+}
+
+.textarea2 {
+    box-shadow: inset 3px 3px 3px 0px #dddddd;
+    height: 10px;
+    margin: 10px;
+    overflow: auto;
+    padding: 7px 10px;
+    width: 150px;    
+    font-family: tahoma;
+    font-size: 13px;
+    border: 1px solid #ac2727;
+}
